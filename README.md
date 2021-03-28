@@ -1,8 +1,6 @@
-# WebinarCodigoFS
+# flask-mysql-0233
 
 El proyecto usa mysql como base de datos y jwt para la seguridad
-
-### Codigo : TZF5-BGKS-VW8Y
 
 ## Instalación
 
